@@ -1,9 +1,9 @@
-# Privacy Policy — Net Worth Tracker
+# Privacy Policy — NWT Portfolio
 
 **Last updated:** June 7, 2026  
 **Contact:** [ayoyinkaobisesan@gmail.com](mailto:ayoyinkaobisesan@gmail.com)
 
-Net Worth Tracker (“the app”) helps you track assets and liabilities on your device. This policy explains what information the app uses, where it is stored, and what choices you have.
+NWT Portfolio (“the app”) helps you track assets and liabilities on your device. This policy explains what information the app uses, where it is stored, and what choices you have.
 
 ## Summary
 
